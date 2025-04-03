@@ -16,9 +16,8 @@ This project implements **Relational Temporal Graph Convolutional Networks (RT-G
 ## **📂 Dataset**  
 The sample dataset includes **5 NIFTY 50 stocks**:  
 - **HDFCBANK.NS** (Banking)  
-- **RELIANCE.NS** (Oil & Gas)  
-- **TCS.NS, INFY.NS** (IT)  
-- **SBIN.NS** (Banking)  
+- **SBIN.NS** (Banking)
+There is a cell which has the code to download other Stock dataset as well
 
 ### **📊 Stock Price Data**  
 - Source: **Yahoo Finance**  
